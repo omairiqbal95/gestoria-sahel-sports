@@ -1,0 +1,136 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Programme",
+      "href": "programme"
+    },
+    {
+      "name": "School support",
+      "href": "features"
+    },
+
+    {
+      "name": "News & events",
+      "href": "supportus"
+    },
+    {
+      "name": "Support us",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Gestoria Sahel",
+    "subtitle": "sports.",
+    "description": "Add description",
+    "img": "/assets/images/happyTeam.jpeg",
+    "primaryAction": {
+      "text": "Contact",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:ahmed@gestoriasahel.com?subject=Query!"
+    }
+  },
+  "programme": {
+    "title": "Gestoria sahel sports",
+    "items": [
+      {
+        "title": "Section 1",
+        "description": "Section 1 Description",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Section 1",
+        "description": "Section 1 Description 2",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Section 2",
+    "subtitle": "Section 2 Subtitle",
+    "description": "Section 2 Description 1",
+    "items": [
+      {
+        "name": "Action 1",
+        "description": "Action 1 Description",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Action 2",
+        "description": "Action 2 Description",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Action 3",
+        "description": "Action 3 Description",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Action 4",
+        "description": "Action 4 Description",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "supportus": {
+    "title": "Section 3",
+    "items": [
+      {
+        "name": "A",
+        "price": "Placeholder",
+        "priceDetails": "Placeholder",
+        "features": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
+      },
+      {
+        "name": "B",
+        "price": "Placeholder",
+        "priceDetails": "Placeholder",
+
+        "features": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
+      },
+      {
+        "name": "C",
+        "price": "Placeholder",
+        "priceDetails": "Placeholder",
+        "features": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "linkedin": "https://www.linkedin.com/company/gestoria-sahel"
+    }
+  }
+}
