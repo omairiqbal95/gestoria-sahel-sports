@@ -2,14 +2,15 @@ import React from 'react';
 
 import About from '../components/About';
 import Analytics from '../components/Analytics';
+import Badminton from '../components/Badminton';
 import Canvas from '../components/Canvas';
-import Features from '../components/Features';
+import Cricket from '../components/Cricket';
+import Futbol from '../components/Futbol';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
-import Programme from '../components/Programme';
-import Pricing from '../components/SupportUs';
+import QuienSomos from '../components/QuienSomos';
 
 const App = () => {
   return (
@@ -25,25 +26,29 @@ const App = () => {
         </div>
         <MainHeroImage />
       </div>
-      <Canvas />
       <LazyShow>
         <>
-          <Programme />
+          <QuienSomos />
           <Canvas />
         </>
       </LazyShow>
       <LazyShow>
         <>
-          <Features />
-          <Canvas />
+          <Cricket />
         </>
       </LazyShow>
       <LazyShow>
-        <Pricing />
+        <>
+          <Badminton />
+        </>
       </LazyShow>
       <LazyShow>
         <>
-          <Canvas />
+          <Futbol />
+        </>
+      </LazyShow>
+      <LazyShow>
+        <>
           <About />
         </>
       </LazyShow>

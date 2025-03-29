@@ -5,21 +5,25 @@
   },
   "navigation": [
     {
-      "name": "Programme",
-      "href": "programme"
+      "name": "Inicio",
+      "href": "quiensomos"
     },
     {
-      "name": "School support",
-      "href": "features"
+      "name": "Quiénes somos",
+      "href": "quiensomos"
     },
 
     {
-      "name": "News & events",
-      "href": "supportus"
+      "name": "Cricket",
+      "href": "cricket"
     },
     {
-      "name": "Support us",
-      "href": "about"
+      "name": "Bádminton",
+      "href": "badminton"
+    },
+    {
+      "name": "Fútbol",
+      "href": "futbol"
     }
   ],
   "callToAction": {
@@ -33,102 +37,39 @@
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Contact",
-      "href": "#"
+      "href": "tel:+34627259060"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:ahmed@gestoriasahel.com?subject=Query!"
+      "href": "mailto:Info@clubesportiusahel.com?subject=Query!"
     }
   },
-  "programme": {
-    "title": "Gestoria sahel sports",
-    "items": [
-      {
-        "title": "Section 1",
-        "description": "Section 1 Description",
-        "img": "/assets/images/product1.jpg"
-      },
-      {
-        "title": "Section 1",
-        "description": "Section 1 Description 2",
-        "img": "/assets/images/product2.jpg"
-      }
-    ]
+  "quiensomos": {
+    "title": "Quiénes somos",
+    "subtitle": "Club Esportiu Sahel",
+    "description": "El Club Esportiu Sahel nace con el propósito de fomentar el deporte como una herramienta de desarrollo físico, personal y social para los jóvenes. Fundado por los tres directores de Gestoría Sahel, nuestra iniciativa busca inculcar valores como el esfuerzo, el trabajo en equipo y la superación a través de la práctica deportiva.\n\nGestoría Sahel, organización suscrita al Colegio de Administradores de Cataluña, con oficinas en Barcelona y Lleida, es el principal patrocinador del club, apostando por el deporte como un medio para generar impacto positivo en la comunidad. Nuestro compromiso es brindar oportunidades a los jóvenes, ayudándolos a crecer tanto en el ámbito deportivo como en su desarrollo personal.\n\nEn el Club Esportiu Sahel, creemos en el poder del deporte para transformar vidas y construir un futuro mejor. ¡Únete a nosotros y forma parte de nuestra comunidad!\n\n",
+    "items": []
   },
-  "features": {
-    "title": "Section 2",
-    "subtitle": "Section 2 Subtitle",
-    "description": "Section 2 Description 1",
-    "items": [
-      {
-        "name": "Action 1",
-        "description": "Action 1 Description",
-        "icon": "/assets/images/react.png"
-      },
-      {
-        "name": "Action 2",
-        "description": "Action 2 Description",
-        "icon": "/assets/images/tailwindcss.svg"
-      },
-      {
-        "name": "Action 3",
-        "description": "Action 3 Description",
-        "icon": "/assets/images/nextjs.svg"
-      },
-      {
-        "name": "Action 4",
-        "description": "Action 4 Description",
-        "icon": "/assets/images/ts.png"
-      }
-    ]
+  "cricket": {
+    "title": "Cricket",
+    "subtitle": "Club Esportiu Sahel",
+    "description": "TBA",
+    "items": []
   },
-  "supportus": {
-    "title": "Section 3",
-    "items": [
-      {
-        "name": "A",
-        "price": "Placeholder",
-        "priceDetails": "Placeholder",
-        "features": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
-      },
-      {
-        "name": "B",
-        "price": "Placeholder",
-        "priceDetails": "Placeholder",
-
-        "features": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
-      },
-      {
-        "name": "C",
-        "price": "Placeholder",
-        "priceDetails": "Placeholder",
-        "features": ["Placeholder", "Placeholder", "Placeholder", "Placeholder"]
-      }
-    ]
+  "badminton": {
+    "title": "Bádminton",
+    "subtitle": "Club Esportiu Sahel",
+    "description": "En Club Esportiu Sahel, apostamos por el talento y la dedicación en el deporte. Somos los únicos y exclusivos patrocinadores de Amer Hassan Janjua, una joven promesa del bádminton que ha demostrado su excelencia en la competición. Amer Hassan Janjua ha conquistado varios torneos a nivel nacional en Pakistán y, ahora, desde su residencia en España, continúa su brillante trayectoria. Su talento y esfuerzo lo han llevado a ganar dos medallas de oro en los Campeonatos de Cataluña, consolidándose como una de las grandes promesas de este deporte. En Club Esportiu Sahel, creemos en apoyar a los jóvenes atletas para que alcancen su máximo potencial. Acompañamos a Amer en su camino hacia el éxito y estamos comprometidos con su crecimiento deportivo. ¡Seguimos sumando victorias juntos!",
+    "items": []
+  },
+  "futbol": {
+    "title": "Fútbol",
+    "subtitle": "Club Esportiu Sahel",
+    "description": "TBA",
+    "items": []
   },
   "about": {
-    "sections": [
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
+    "sections": [],
     "socialMedia": {
       "linkedin": "https://www.linkedin.com/company/gestoria-sahel"
     }
