@@ -27,15 +27,6 @@ const QuienSomos = () => {
           >
             {mainDescription}
           </p>
-
-          <p className="mt-4 max-w-2xl text-xl lg:mx-auto">
-            <span className="text-red-600 font-bold">
-              Ahmed Sardar Anwar Pervez
-              <br />
-              <br />
-              Presidente
-            </span>
-          </p>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/GestoriaSahel.png"
   },
   "navigation": [
     {
@@ -14,8 +14,8 @@
     },
 
     {
-      "name": "Cricket",
-      "href": "cricket"
+      "name": "Criquet",
+      "href": "criquet"
     },
     {
       "name": "Bádminton",
@@ -24,6 +24,10 @@
     {
       "name": "Fútbol",
       "href": "futbol"
+    },
+    {
+      "name": "Fútbol Sala",
+      "href": "futbolSala"
     }
   ],
   "callToAction": {
@@ -31,9 +35,9 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Gestoria Sahel",
-    "subtitle": "sports.",
-    "description": "Add description",
+    "title": "",
+    "subtitle": "CES",
+    "description": "El Club Esportiu Sahel nace con el propósito de fomentar el deporte como una herramienta de desarrollo físico, personal y social para los jóvenes. Fundado por los tres directores de Gestoría Sahel, nuestra iniciativa busca inculcar valores como el esfuerzo, el trabajo en equipo y la superación a través de la práctica deportiva.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
       "text": "Contact",
@@ -47,25 +51,31 @@
   "quiensomos": {
     "title": "Quiénes somos",
     "subtitle": "Club Esportiu Sahel",
-    "description": "El Club Esportiu Sahel nace con el propósito de fomentar el deporte como una herramienta de desarrollo físico, personal y social para los jóvenes. Fundado por los tres directores de Gestoría Sahel, nuestra iniciativa busca inculcar valores como el esfuerzo, el trabajo en equipo y la superación a través de la práctica deportiva.\n\nGestoría Sahel, organización suscrita al Colegio de Administradores de Cataluña, con oficinas en Barcelona y Lleida, es el principal patrocinador del club, apostando por el deporte como un medio para generar impacto positivo en la comunidad. Nuestro compromiso es brindar oportunidades a los jóvenes, ayudándolos a crecer tanto en el ámbito deportivo como en su desarrollo personal.\n\nEn el Club Esportiu Sahel, creemos en el poder del deporte para transformar vidas y construir un futuro mejor. ¡Únete a nosotros y forma parte de nuestra comunidad!\n\n",
+    "description": "Gestoría Sahel, organización suscrita al Colegio de Administradores de Cataluña, con oficinas en Barcelona y Lleida, es el principal patrocinador del club, apostando por el deporte como un medio para generar impacto positivo en la comunidad. Nuestro compromiso es brindar oportunidades a los jóvenes, ayudándolos a crecer tanto en el ámbito deportivo como en su desarrollo personal.\n\nEn el Club Esportiu Sahel, creemos en el poder del deporte para transformar vidas y construir un futuro mejor. ¡Únete a nosotros y forma parte de nuestra comunidad!\n\n",
     "items": []
   },
-  "cricket": {
-    "title": "Cricket",
-    "subtitle": "Club Esportiu Sahel",
-    "description": "TBA",
+  "criquet": {
+    "title": "Criquet - Formación, equipo y competición",
+    "subtitle": "",
+    "description": "En Club Esportiu Sahel apostamos por el desarrollo del criquet como deporte en crecimiento entre la juventud. Este año, hemos formado y patrocinado un equipo compuesto por 15 jóvenes jugadores, con edades comprendidas entre los 16 y 18 años, con el objetivo de fomentar su talento, compromiso y espíritu competitivo. Nuestro equipo participa activamente en la liga organizada por la Federació Catalana de Criquet, lo que les permite enfrentarse a otros clubes de Cataluña y vivir la experiencia del deporte federado en un entorno reglado y motivador. Desde el club, facilitamos tanto los entrenamientos como el material deportivo, y acompañamos a los jugadores en su evolución técnica y personal. Creemos que el criquet no solo fortalece el cuerpo, sino que también enseña disciplina, trabajo en equipo y respeto. En Club Esportiu Sahel, el criquet es más que un deporte: es una oportunidad para crecer, compartir y aspirar a lo más alto.",
     "items": []
   },
   "badminton": {
-    "title": "Bádminton",
-    "subtitle": "Club Esportiu Sahel",
+    "title": "Bádminton – Precisión, agilidad y estrategia.",
+    "subtitle": "",
     "description": "En Club Esportiu Sahel, apostamos por el talento y la dedicación en el deporte. Somos los únicos y exclusivos patrocinadores de Amer Hassan Janjua, una joven promesa del bádminton que ha demostrado su excelencia en la competición. Amer Hassan Janjua ha conquistado varios torneos a nivel nacional en Pakistán y, ahora, desde su residencia en España, continúa su brillante trayectoria. Su talento y esfuerzo lo han llevado a ganar dos medallas de oro en los Campeonatos de Cataluña, consolidándose como una de las grandes promesas de este deporte. En Club Esportiu Sahel, creemos en apoyar a los jóvenes atletas para que alcancen su máximo potencial. Acompañamos a Amer en su camino hacia el éxito y estamos comprometidos con su crecimiento deportivo. ¡Seguimos sumando victorias juntos!",
     "items": []
   },
   "futbol": {
-    "title": "Fútbol",
-    "subtitle": "Club Esportiu Sahel",
-    "description": "TBA",
+    "title": "Fútbol - Pasión, disciplina y comunidad",
+    "subtitle": "",
+    "description": "En Club Esportiu Sahel, el fútbol ocupa un lugar central como herramienta de inclusión, motivación y desarrollo juvenil. Nuestro proyecto futbolístico está orientado a ofrecer a los jóvenes un espacio donde puedan crecer como deportistas y como personas, dentro de un entorno sano, competitivo y con valores. Contamos con un equipo de jóvenes jugadores apasionados por el fútbol, a quienes brindamos entrenamiento regular, seguimiento técnico y participación en partidos amistosos y competiciones locales. Nuestro objetivo es formar no solo buenos futbolistas, sino también ciudadanos responsables y comprometidos con su entorno. El fútbol es un idioma universal que une culturas, supera barreras y crea lazos duraderos. En Club Esportiu Sahel, lo vivimos con entrega, respeto y orgullo. ¡Ven a jugar con nosotros y forma parte de un equipo que juega con el corazón!",
+    "items": []
+  },
+  "futbolSala": {
+    "title": "Fútbol Sala – Técnica, velocidad y trabajo en equipo",
+    "subtitle": "",
+    "description": "En Club Esportiu Sahel, el fútbol sala es una disciplina clave para el desarrollo técnico y táctico de nuestros jóvenes deportistas. Apostamos por esta modalidad por su dinamismo, su exigencia física y su capacidad para potenciar habilidades como el control del balón, la visión de juego y la toma rápida de decisiones. Hemos formado un equipo juvenil con jugadores comprometidos y apasionados por el fútbol sala, a quienes ofrecemos entrenamientos estructurados, seguimiento deportivo y la oportunidad de participar en torneos locales y ligas organizadas en Cataluña. A través del fútbol sala, fomentamos valores esenciales como la cooperación, la disciplina y el respeto mutuo, creando un ambiente donde cada jugador puede crecer, competir y disfrutar del juego en equipo. En Club Esportiu Sahel, el fútbol sala es más que un deporte: es una escuela de vida.",
     "items": []
   },
   "about": {

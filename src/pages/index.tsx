@@ -4,6 +4,9 @@ import About from '../components/About';
 import Analytics from '../components/Analytics';
 import Badminton from '../components/Badminton';
 import Canvas from '../components/Canvas';
+import Cricket from '../components/Criquet';
+import Futbol from '../components/Futbol';
+import FutbolSala from '../components/FutbolSala';
 import Header from '../components/Header';
 import LazyShow from '../components/LazyShow';
 import MainHero from '../components/MainHero';
@@ -30,25 +33,32 @@ const App = () => {
           <Canvas />
         </>
       </LazyShow>
-      {/* 
-      <LazyShow>
-        <>
-          <Cricket />
-        </>
-      </LazyShow>
-      */}
+      {
+        <LazyShow>
+          <>
+            <Cricket />
+          </>
+        </LazyShow>
+      }
       <LazyShow>
         <>
           <Badminton />
         </>
       </LazyShow>
-      {/* 
-      <LazyShow>
-        <>
-          <Futbol />
-        </>
-      </LazyShow>
-      */}
+      {
+        <LazyShow>
+          <>
+            <Futbol />
+          </>
+        </LazyShow>
+      }
+      {
+        <LazyShow>
+          <>
+            <FutbolSala />
+          </>
+        </LazyShow>
+      }
       <LazyShow>
         <>
           <About />

@@ -2,13 +2,15 @@ import React from 'react';
 
 import config from '../config/index.json';
 
-const Futbol = () => {
-  const { futbol } = config;
-  const { title, subtitle, description } = futbol;
+const FutbolSala = () => {
+  const { futbolSala } = config;
+  const { title, subtitle, description } = futbolSala;
+
+  // Split the description into parts: main text and the signature
   const [mainDescription] = description.split('\n\nPresidente');
 
   return (
-    <div className={`py-12 bg-background`} id="futbol">
+    <div className={`py-12 bg-background`} id="futbolSala">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="lg:text-center">
           {/* Title */}
@@ -36,4 +38,4 @@ const Futbol = () => {
   );
 };
 
-export default Futbol;
+export default FutbolSala;
