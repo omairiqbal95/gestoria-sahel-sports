@@ -65,7 +65,7 @@ const About = () => {
           {/* Facebook */}
           <a
             aria-label="Facebook"
-            href="https://www.facebook.com/gestoriasahel/"
+            href="https://www.facebook.com/clubesportiusahel"
             target="_blank"
             rel="noreferrer"
           >
@@ -84,7 +84,7 @@ const About = () => {
           {/* Instagram */}
           <a
             aria-label="Instagram"
-            href="https://www.instagram.com/gestoria_sahel/"
+            href="https://www.instagram.com/club.esportiu.sahel"
             target="_blank"
             rel="noreferrer"
           >
