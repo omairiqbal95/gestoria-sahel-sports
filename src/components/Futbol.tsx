@@ -26,7 +26,10 @@ const Futbol = () => {
           {/* Main Description */}
           <p
             className="mt-4 max-w-2xl text-xl text-gray-500 lg:mx-auto whitespace-pre-line"
-            style={{ whiteSpace: 'pre-line' }}
+            style={{
+              whiteSpace: 'pre-line',
+              textAlign: 'justify', // Add this to justify the text
+            }}
           >
             {mainDescription}
           </p>

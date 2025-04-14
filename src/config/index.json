@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "React landing page 2021",
-    "logo": "/assets/images/GestoriaSahel.png"
+    "logo": "/assets/images/SahelClubEsportiu.jpeg"
   },
   "navigation": [
     {
@@ -36,7 +36,7 @@
   },
   "mainHero": {
     "title": "",
-    "subtitle": "CES",
+    "subtitle": "Club Esportiu Sahel",
     "description": "El Club Esportiu Sahel nace con el propósito de fomentar el deporte como una herramienta de desarrollo físico, personal y social para los jóvenes. Fundado por los tres directores de Gestoría Sahel, nuestra iniciativa busca inculcar valores como el esfuerzo, el trabajo en equipo y la superación a través de la práctica deportiva.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
